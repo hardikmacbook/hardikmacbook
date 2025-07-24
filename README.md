@@ -1,29 +1,45 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikmacbook&label=Profile%20views&color=0e75b6&style=flat" alt="hardikmacbook" /> </p>
+I'm **Hardik Kamaliya**, a passionate developer based in **Surat, Gujarat**. With a strong interest in building dynamic web applications, I love to explore new technologies and enhance my skills. Let's create something amazing together!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardikmacbook" alt="hardikmacbook" /></a> </p>
+## About Me
 
-- 🔭 I’m currently working on [Avinya Electricals](https://avinya-electricals.vercel.app/)
+I am a software developer with a focus on web technologies. Currently, I have **39** public repositories on GitHub, showcasing various projects I've worked on. My goal is to continuously learn and grow in the tech space.
 
-- 👨‍💻 All of my projects are available at [https://hardik-kamaliya.vercel.app/](https://hardik-kamaliya.vercel.app/)
+## Skills & Technologies
 
-- 💬 Ask me about **Frontend Development (React.js, HTML, CSS, Tailwind, JavaScript) - Responsive UI/UX design - MongoDB & NoSQL basics - Git & GitHub workflow - Portfolio website creation - E-commerce & Admin Panel structure - Dark/Light Mode toggling - Animated UI using GSAP, Framer Motion, and Locomotive Scroll - Clean Code practices and Web Animations**
+JavaScript,PHP,HTML,CSS,Node.js,Express,MySQL,React,Vue.js,Next.js,Docker,Git,GitHub,GraphQL,PostgreSQL,Redux,TypeScript,Flutter,Java,Python,Sass,Tailwind CSS,FastAPI,Spring
 
-- 📫 How to reach me **hardikkamaliya.dev@gmail.com**
+## Top Projects
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Oi6LsXkPAwf7PVSAeiGsDQZrq7qhsOO7/view?usp=drive_link](https://drive.google.com/file/d/1Oi6LsXkPAwf7PVSAeiGsDQZrq7qhsOO7/view?usp=drive_link)
+- [BuyNGo](https://github.com/hardikmacbook/BuyNGo) - A shopping platform built with JavaScript. ⭐️ 0 stars, ⚡️ 0 forks.
+- [Avinya](https://github.com/hardikmacbook/Avinya) - An electrical services app. ⭐️ 2 stars, ⚡️ 0 forks.
+- [StudentManagementSystem](https://github.com/hardikmacbook/StudentManagementSystem) - A PHP-based system for managing student records. ⭐️ 0 stars, ⚡️ 0 forks.
+- [minimal-portfolio](https://github.com/hardikmacbook/minimal-portfolio) - A simple portfolio website showcasing my work. ⭐️ 0 stars, ⚡️ 0 forks.
+- [prestra-helth-care](https://github.com/hardikmacbook/prestra-helth-care) - A healthcare platform. ⭐️ 0 stars, ⚡️ 0 forks.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hardik-kamaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik-kamaliya" height="30" width="40" /></a>
-</p>
+## GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+🌟 **Public Repositories:** 39  
+👥 **Followers:** 3  
+🔗 **Following:** 6  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardikmacbook&show_icons=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikmacbook&show_icons=true&locale=en&layout=compact" alt="hardikmacbook" /></p>
+## Recent Activity
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikmacbook&show_icons=true&locale=en" alt="hardikmacbook" /></p>
+- **Updated README.md** in [BuyNGo](https://github.com/hardikmacbook/BuyNGo)  
+- **Added license file** to [BuyNGo](https://github.com/hardikmacbook/BuyNGo)  
+- **Temporarily commented out extra features** in [BuyNGo](https://github.com/hardikmacbook/BuyNGo)  
+- **Updated with real images** for our pages in [BuyNGo](https://github.com/hardikmacbook/BuyNGo)  
+- **Updated Installation** in [BuyNGo](https://github.com/hardikmacbook/BuyNGo)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardikmacbook&" alt="hardikmacbook" /></p>
+## Latest Blog Posts
+
+Currently, I don't have any blog posts to share. Stay tuned for updates!
+
+## Connect with Me
+
+Feel free to reach out!  
+[![GitHub](https://img.shields.io/badge/GitHub-hardikmacbook-blue?style=flat-square&logo=github)](https://github.com/hardikmacbook)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hardikkamaliya-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hardik-kamaliya/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@hardik_kamaliya-blue?style=flat-square&logo=twitter)](https://twitter.com/hardik_kamaliya)
