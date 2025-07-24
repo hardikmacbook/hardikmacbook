@@ -8,7 +8,7 @@ I am currently focused on developing web applications using JavaScript and PHP. 
 
 ## Skills & Technologies
 
-JavaScript, PHP, HTML, CSS, React, Next.js, Git,GitHub, Tailwind CSS, API, W
+JavaScript, PHP, HTML, CSS, React, Next.js, Git,GitHub, Tailwind CSS, API, WORDPRESS 
 
 ## Top Projects
 
