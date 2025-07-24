@@ -40,7 +40,10 @@ Currently, I do not have any blog posts. Stay tuned for updates!
 Feel free to reach out!  
 [![GitHub](https://img.shields.io/badge/GitHub-hardikmacbook-blue?style=flat-square&logo=github)](https://github.com/hardikmacbook)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hardikkamaliya-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hardik-kamaliya/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@hardik_kamaliya-blue?style=flat-square&logo=twitter)](https://twitter.com/hardik_kamaliya)
+[![Twitter](https://img.shields.io/badge/Twitter-@hardik_kamaliya-blue?style=flat-square&logo=twitter)](https://twitter.com/hardik_kamaliya)  
+[![Instagram](https://img.shields.io/badge/Instagram-@hardik.kamaliya_-blue?style=flat-square&logo=instagram)](https://instagram.com/hardik.kamaliya_)  
+[![Discord](https://img.shields.io/badge/Discord-hardik_kamaliya-blue?style=flat-square&logo=discord)](https://discord.com/channels/hardik_kamaliya)
+
 
 
 ## Certifications
