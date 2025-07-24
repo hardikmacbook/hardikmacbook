@@ -12,15 +12,15 @@ JavaScript, PHP, HTML, CSS, React, Next.js, Git,GitHub, Tailwind CSS, API, W
 
 ## Top Projects
 
-- [BuyNGo](https://github.com/hardikmacbook/BuyNGo) - A shopping application built with JavaScript. ⭐️ 1 star. Language: JavaScript. Forks: 1, Issues: 0
-- [Avinya](https://github.com/hardikmacbook/Avinya) - A web application for electrical services. ⭐️ 2 stars. Language: JavaScript. Forks: 0, Issues: 0
-- [minimal-portfolio](https://github.com/hardikmacbook/minimal-portfolio) - A simple portfolio to showcase my projects. ⭐️ 0 stars. Language: JavaScript. Forks: 0, Issues: 0
-- [prestra-helth-care](https://github.com/hardikmacbook/prestra-helth-care) - A health care application for managing patient records. ⭐️ 0 stars. Language: HTML. Forks: 0, Issues: 0
+- [BuyNGo](https://github.com/hardikmacbook/BuyNGo) - A shopping application built with JavaScript. ⭐️ 3 star. Language: JavaScript. Forks: 3, Issues: 0
+- [Avinya](https://github.com/hardikmacbook/Avinya) - A web application for electrical services. ⭐️ 4 stars. Language: JavaScript. Forks: 1, Issues: 0
+- [minimal-portfolio](https://github.com/hardikmacbook/minimal-portfolio) - A simple portfolio to showcase my projects. ⭐️ 1 stars. Language: JavaScript. Forks: 0, Issues: 0
+- [prestra-helth-care](https://github.com/hardikmacbook/prestra-helth-care) - A health care application for managing patient records. ⭐️ 3 stars. Language: HTML. Forks: 0, Issues: 0
 
 ## GitHub Stats
 
-🔭 **Public Repositories:** 39 
-👥 **Followers:** 3 
+🔭 **Public Repositories:** 43
+👥 **Followers:** 5
 👤 **Following:** 6 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardikmacbook&show_icons=true&hide_title=true&count_private=true&theme=radical)
